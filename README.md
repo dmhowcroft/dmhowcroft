@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">a computational linguist interested in natural language generation and psycholinguistics</h3>
 
-- 🔭 I’m currently working on **better understanding human evaluation for NLG systems**
+- 🔭 I’m currently working on **NLG for low-resource settings**, including data-efficient ML.
 
-- 🌱 I’m currently learning **more about Bayesian statistics and experimental design**
+- 🌱 I’m always learning more about statistics and experimental design :)
 
-- 💬 Ask me about **NLG beyond neural networks**
+- 💬 Ask me anything about **Natural Language Generation**
 
-- Pronouns: he/him
+- Pronouns: he/him or they/them
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmhowcroft&show_icons=true" alt="dmhowcroft" /></p>
 
